@@ -63,8 +63,7 @@ The game was developed using **Unity** and **C#**, with a core focus on building
 - **Jump**: Press Spacebar to jump.
 - **Shoot**: Press P to shoot.
 
-
-  ## Technologies Used
+## Technologies Used
 
 - **Unity**: Game engine for building and deploying the game.
 - **C#**: Scripting language used for game logic.
