@@ -69,3 +69,22 @@ The game was developed using **Unity** and **C#**, with a core focus on building
 - **C#**: Scripting language used for game logic.
 - **TextMeshPro**: Used for UI elements.
 - **Particle System**: For effects.
+
+## LINKS TO ASSETS USED
+
+https://assetstore.unity.com/packages/2d/textures-materials/warped-vehicles-195248
+https://assetstore.unity.com/packages/2d/characters/warped-space-shooter-181590
+https://assetstore.unity.com/packages/2d/environments/warped-city-assets-pack-138128
+https://anokolisa.itch.io/sidescroller-shooter-central-city
+https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+https://assetstore.unity.com/packages/2d/characters/streets-of-fight-211512
+https://assetstore.unity.com/packages/2d/characters/3-direction-npc-characters-205182
+https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
+https://assetstore.unity.com/packages/2d/environments/warped-city-2-200208
+https://assetstore.unity.com/packages/2d/characters/warped-caves-103250
+https://assetstore.unity.com/packages/2d/textures-materials/tiles/grotto-escape-pack-54254
+https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246
+https://assetstore.unity.com/packages/audio/music/8-bit-music-tracks-291369
+
+
+**all assets used for endscreen, homescreen and some assets in the main levels were our own**
